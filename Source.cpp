@@ -33,7 +33,7 @@ int main() {
 			cout << "Knight die, paladin win!";
 			break;
 		}
-		Sleep(1000);
+		Sleep(2000);
 	}
 	return 0;
 }
